@@ -1,0 +1,1 @@
+SELECT avg(ALL energy) FROM songs;

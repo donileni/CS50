@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It is the slowest when the order is reversed for the "reversed50000.txt" file. Bubble sort need go through the file until the value at the end travels all the way to the front.
+
+sort2 uses: Merge sort
+
+How do you know?: It is the fastest method for the "random50000.txt" file. Merge sort is faster since the number of values is large enough. As such, the O(n log n) method is more efficeint.
+
+sort3 uses: Selection sort
+
+How do you know?: It is slowest for the "sorted50000.txt" file. This method needs to check each value even though they are in the correct order.
